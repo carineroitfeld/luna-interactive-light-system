@@ -19,7 +19,7 @@ The work exists as both:
 
   Software:
 	•	TouchDesigner
-	•	GLSL shaders (if used)
+	•	GLSL shaders
 	•	CHOP-based proximity logic
 	•	LFO-driven phase transitions
 
